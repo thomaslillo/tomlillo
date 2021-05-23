@@ -1,3 +1,3 @@
 # tomlillo
 
-My personal website repo: thomaslillo.com
+My personal website repo: [thomaslillo.com](https://thomaslillo.com/)
