@@ -1,0 +1,59 @@
+
+#content {
+width: 700px;
+color: #333;
+margin: 0 auto;
+padding-bottom: 100px;
+padding-top: 100px;
+font-family: Georgia, sans-serif;
+}
+
+form {
+text-align: center;
+}
+
+p {
+font-size: 30px;
+line-height: 1.8;
+}
+
+input {
+font-size: 28px;
+line-height: 1.5;
+padding: 5px 15px;
+}
+
+input[type='submit'] {
+border-width: 1px;
+}
+
+h1 {
+font-size: 80px;
+}
+
+h2 {
+font-size: 40px;
+font-weight: bold;
+}
+
+a.skills_link{
+background: #feffbd;
+padding: 3px 6px;
+font-size: 25px;
+}
+
+a {
+text-decoration: none;
+background: #bdf4ff;
+padding: 3px 6px;
+color: #000;
+}
+
+strong {
+color: #74f07b;
+}
+
+a:hover {
+color: #000;
+text-decoration: underline;
+}
