@@ -1,0 +1,60 @@
+a {
+    text-decoration: none;
+    color:rgb(236, 250, 110);
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: 'Cairo Play';
+    font-weight: bold;   
+    color: white;
+}
+
+p {
+    font-family: 'Cairo Play';
+    font-weight: bold;   
+    color: white;
+}
+
+div.content {
+    margin: 5%;
+}
+
+a:hover {
+    color: #4AF626;
+    text-decoration: underline;
+}
+
+html, body {
+    width: 99%;
+    height:99%;
+}
+
+/*
+
+    tropics gradient
+    background: linear-gradient(-45deg, #f6fa0e, #7cfa9c, #23a6d5, #53f3ce);
+
+    purple
+    color:rgb(152, 110, 250);
+
+
+*/
+
+body {
+    background: linear-gradient(-45deg, #005eca, #002e63, #00070f, #6d6d6d);
+    background-size: 400% 400%;
+    animation: gradient 20s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
