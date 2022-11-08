@@ -10,6 +10,12 @@ h1 {
     color: white;
 }
 
+h4 {
+    font-family: 'Cairo Play';
+    font-weight: bold;   
+    color: white;
+}
+
 p {
     font-family: 'Cairo Play';
     font-weight: bold;   
